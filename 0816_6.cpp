@@ -1,5 +1,6 @@
 // 백준 1941번: 소문난 칠공주 (백트래킹)
 // https://www.acmicpc.net/problem/1941
+// 너무 어려우ㅝㅁ,,
 #include <bits/stdc++.h>
 using namespace std;
 
